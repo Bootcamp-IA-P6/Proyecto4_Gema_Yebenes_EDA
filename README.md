@@ -15,9 +15,7 @@
 - [Dataset](#-información-del-dataset)
 - [Análisis Realizado](#-análisis-realizado)
 - [Reportes](#-reportes-generados)
-- [Comandos Útiles](#-comandos-útiles-con-uv)
-- [Contribuciones](#-contribuir)
-- [Licencia](#-licencia)
+
 
 ---
 
